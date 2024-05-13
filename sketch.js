@@ -24,7 +24,7 @@ function mouseClicked() {
   textFont('Courier New');
   textStyle(BOLD);
   fill(243, 32, 96);
-  text('HELP TURN FILL BUBBLES', 50, 200);
+  text('Help Me Produce Clean Oxygen', 50, 200);
 }
 class Particle {
   constructor(x, y, r, o) {
