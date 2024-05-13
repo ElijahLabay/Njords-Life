@@ -55,3 +55,5 @@ li{display: inline;
 img{margin: auto;
 	display: block;
 	padding-bottom: 25px}
+
+canvas{margin:auto;display: block;}
